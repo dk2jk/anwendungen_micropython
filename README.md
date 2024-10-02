@@ -1,3 +1,6 @@
+![bake_si]()
+
+
 <b>Beispiele in Micropython mit Bezug zum Amateurfunk.<br>
 Vorgestellt zum Schwarzwaldtreffen 2024</b><br><br>
 Als Entwicklungsoberfläche wird 'Thonny' verwendet.<br>
