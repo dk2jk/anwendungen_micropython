@@ -1,6 +1,4 @@
-![bake_si](https://github.com/dk2jk/anwendungen_micropython/blob/main/bake_si.jpg)
-
-
+<img src="https://github.com/dk2jk/anwendungen_micropython/blob/main/bake_si.jpg" alt="bake mit si5351" width=400/>
 <b>Beispiele in Micropython mit Bezug zum Amateurfunk.<br>
 Vorgestellt zum Schwarzwaldtreffen 2024</b><br><br>
 Als Entwicklungsoberfläche wird 'Thonny' verwendet.<br>
