@@ -1,4 +1,4 @@
-![bake_si]()
+![bake_si](https://github.com/dk2jk/anwendungen_micropython/blob/main/bake_si.jpg)
 
 
 <b>Beispiele in Micropython mit Bezug zum Amateurfunk.<br>
