@@ -1,4 +1,4 @@
-<img src="https://github.com/dk2jk/anwendungen_micropython/blob/main/bake_si.jpg" alt="bake mit si5351" width=400/>
+<img src="https://github.com/dk2jk/anwendungen_micropython/blob/main/keyer%20rp2040.jpg" alt="keyer" width=400/>
 <b>Beispiele in Micropython mit Bezug zum Amateurfunk.<br>
 Vorgestellt zum Schwarzwaldtreffen 2024</b><br><br>
 Als Entwicklungsoberfläche wird 'Thonny' verwendet.<br>
